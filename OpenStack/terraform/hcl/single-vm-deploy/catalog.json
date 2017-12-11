@@ -1,7 +1,7 @@
 {
-   "name": "IBM PowerVC NGINX Example",
-   "description": "IBM PowerVC Example to instantiate nginx virtual machines.",
-   "version": "1.0.2",
+   "name": "IBM PowerVC Single Virtual Machine Example",
+   "description": "IBM PowerVC Example to instantiate virtual machine.",
+   "version": "1.0.3",
    "imageUrl": "./assets/svg/IBM_WebSphere_Standalone.svg",
    "image": "tp_WAS_standalone.png",
    "type": "prebuilt",
@@ -18,14 +18,14 @@
      "template_source": {
      "githubRepoUrl": "",
      "githubAccessToken": "",
-     "relativePathToTemplateFolder": "multi-vm-nginx-deploy",
+     "relativePathToTemplateFolder": "OpenStack/terraform/hcl/single-vm-deploy",
      "templateFileName": "main.tf"
       }
    },
    "metadata": {
-     "displayName": "IBM PowerVC NGINX Example",
+     "displayName": "IBM PowerVC Single Virtual Machine Example",
      "providerDisplayName": "openstack - IBM PowerVC",
-     "longDescription": "IBM PowerVC NGINX Example",
+     "longDescription": "IBM PowerVC Single Virtual Machine Example",
      "bullets": [
       {
         "title": "Clouds",
@@ -33,7 +33,7 @@
       },
       {
         "title": "Template version",
-        "description": "1.0.2<br>"
+        "description": "1.0.3<br>"
       },
       {
         "title": "Operating systems supported",
