@@ -1,6 +1,6 @@
 {
-  "input_namespaces": [],
-  "output_namespace": "content_template_output",
+  "input_datatypes": [],
+  "output_datatype": "content_template_output",
   "input_groups": [
     {
       "name": "cloud",
