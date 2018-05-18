@@ -1,7 +1,7 @@
 {
    "name": "IBM PowerVC Single Virtual Machine Example",
    "description": "IBM PowerVC Example to instantiate virtual machine.",
-   "version": "2.0.0",
+   "version": "1.0",
    "imageUrl": "./assets/svg/IBM_WebSphere_Standalone.svg",
    "image": "tp_WAS_standalone.png",
    "type": "prebuilt",
@@ -33,7 +33,7 @@
       },
       {
         "title": "Template version",
-        "description": "2.0.0<br>"
+        "description": "1.0<br>"
       },
       {
         "title": "Operating systems supported",

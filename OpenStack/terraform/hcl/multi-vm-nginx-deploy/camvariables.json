@@ -94,7 +94,7 @@
     },
     {
       "name":  "image_id_password",
-      "type": "string",
+      "type": "password",
       "description": "The password of the username to SSH into image ID",
       "hidden": false,
       "label": "Openstack Image Password",
