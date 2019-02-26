@@ -2,8 +2,8 @@
 Summary
 =======
 
-This Terraform sample will perform a multi-VM deployment and install and launch
-NGINX on all of the VMs. It highlights how to perform a semi-complex deployment
+This Terraform sample will perform a single VM deployment and install and launch
+NGINX on the VM. It highlights how to perform a semi-complex deployment
 and can serve as a template to bootstrap whatever applications are of interest
 for your environment.
 
