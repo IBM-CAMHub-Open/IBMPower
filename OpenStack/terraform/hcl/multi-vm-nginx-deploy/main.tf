@@ -34,7 +34,7 @@ variable "image_id_password" {
 
 provider "openstack" {
   insecure = true
-  version  = "~> 0.3"
+  #version  = "~> 0.3"
 }
 
 variable "number_nginx_instances" {}
